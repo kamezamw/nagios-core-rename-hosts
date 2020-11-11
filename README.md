@@ -1,0 +1,1 @@
+# nagios-core-rename-hosts
